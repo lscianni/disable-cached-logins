@@ -2,6 +2,7 @@
 SETLOCAL
 :: 2018-02-15
 :: Louis Scianni
+:: Released under FreeBSD license
 ::Must be ran as Administrator::
 
 ::Globals
